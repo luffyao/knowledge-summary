@@ -19,3 +19,6 @@
 ## Network
 
 [网络知识汇总](/network/)
+
+## 高级语言知识体系
+[高级语言知识体系](/advance_language)
